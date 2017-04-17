@@ -1,0 +1,42 @@
+header {
+  background-color: gold;
+  margin-bottom: 40px;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: black;
+}
+
+header h1 {
+  line-height: 1;
+  margin-bottom: 0;
+}
+
+header p {
+  margin-top: 0.5em;
+}
+
+.card {
+  border: 1px solid gold;
+  margin-bottom: 20px;
+}
+
+.image {
+  width: 100%;
+}
+
+
+
+.desc{
+  padding: 20px;
+}
+.desc p {
+  margin: 0.5em 0;
+}
+.desc h4 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
